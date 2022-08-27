@@ -4,7 +4,7 @@ Service Karma is a tip calculator application for iOS.
 
 Submitted by: Dunyagozel Durdyyeva
 
-Time spent: 3 hours spent in total
+Time spent: 7 hours spent in total
 
 ## User Stories
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+* [x] Created Tip Slider that adjusts the tip percentage.
 
 ## Video Walkthrough
 
